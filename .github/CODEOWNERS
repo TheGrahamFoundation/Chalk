@@ -1,0 +1,8 @@
+# Only sensitive changes request the founder automatically; routine code needs maintainer review.
+/.github/ @david-labs-ca
+/SECURITY.md @david-labs-ca
+/LICENSE @david-labs-ca
+/CONTRIBUTING.md @david-labs-ca
+/CODE_OF_CONDUCT.md @david-labs-ca
+/package.json @david-labs-ca
+/package-lock.json @david-labs-ca
