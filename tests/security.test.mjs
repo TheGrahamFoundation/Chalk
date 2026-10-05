@@ -15,4 +15,3 @@ test('malformed JSON and invalid viewports fail without throwing', () => {
     assert.equal(parseChalkSpec(raw), null);
   }
 });
-

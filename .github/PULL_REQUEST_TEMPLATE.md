@@ -15,4 +15,3 @@ Explain breaking changes, security/privacy impact and dependency/license changes
 - [ ] Documentation matches the implementation.
 - [ ] No credentials, private data or third-party code without permission are included.
 - [ ] I have the right to contribute this work under the project's MIT license.
-

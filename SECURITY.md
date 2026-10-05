@@ -11,4 +11,3 @@ Include the affected revision, a minimal reproduction using synthetic data, impa
 ## Review boundaries
 
 Untrusted input must remain data, not shell commands or executable expressions. Use least-privilege, read-only provider tokens. Do not print credentials, log authorization headers, or include private repository contents in public examples. Never run untrusted contributor code with write credentials or deployment secrets. Workflow, token handling, dependency and licensing changes require additional review.
-

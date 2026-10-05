@@ -7,4 +7,3 @@ Harassment, threats, discriminatory abuse, sexual misconduct, doxxing, spam and 
 Report concerns privately to `letstalk@davidlabs.ca` with subject `TGF community report`. Maintainers may edit or remove disruptive content, close abusive issues/PRs, and restrict participation proportionately. Reports are shared only with those needed to address them; no absolute confidentiality guarantee is made.
 
 Maintainers are accountable to the same standard. Explain moderation decisions where possible without exposing the reporter.
-

@@ -34,4 +34,3 @@ body:
       label: Node version and operating system
     validations:
       required: true
-

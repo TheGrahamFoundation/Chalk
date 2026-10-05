@@ -20,4 +20,3 @@ updates:
     groups:
       actions:
         patterns: ["*"]
-

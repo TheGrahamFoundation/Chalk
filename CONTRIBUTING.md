@@ -28,4 +28,3 @@ Do not ping the founder on routine issues. No bot auto-approves or merges PRs. C
 Only the current administrator can bootstrap governance while there is no independent maintainer. This is an explicit administrative exception, not permission for contributors or automation to bypass reviews. Remove the exception when a second maintainer is appointed.
 
 Report vulnerabilities privately as described in SECURITY.md, never in a public issue.
-
