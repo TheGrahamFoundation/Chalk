@@ -10,6 +10,6 @@ export type {
   ChalkFunctionGraph,
   ChalkText,
   ChalkArc,
-} from "./types";
+} from "./types.js";
 
-export { parseChalkSpec } from "./parse";
+export { parseChalkSpec } from "./parse.js";

@@ -1,0 +1,23 @@
+name: Feature proposal
+description: Propose a focused change before opening a large PR.
+title: "[Feature]: "
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem or use case
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed behavior and alternatives
+    validations:
+      required: true
+  - type: textarea
+    id: risks
+    attributes:
+      label: Compatibility, security and licensing considerations
+    validations:
+      required: true
+

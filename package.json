@@ -4,15 +4,41 @@
   "description": "A structured mathematical visual language for turning machine-generated specifications into interactive geometry, plots and diagrams.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "files": ["dist"],
-  "scripts": {"build":"tsc","dev":"tsc --watch"},
-  "keywords": ["math", "visualization", "geometry", "education", "jsxgraph", "chalk", "structured-graphics"],
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "test": "node --test tests/*.test.mjs"
+  },
+  "keywords": [
+    "math",
+    "visualization",
+    "geometry",
+    "education",
+    "jsxgraph",
+    "chalk",
+    "structured-graphics"
+  ],
   "author": "The Graham Foundation",
   "license": "MIT",
   "private": false,
-  "repository": {"type":"git","url":"https://github.com/TheGrahamFoundation/chalk.git"},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TheGrahamFoundation/chalk.git"
+  },
   "homepage": "https://github.com/TheGrahamFoundation/chalk",
-  "dependencies": {"jsxgraph":"^1.12.2"},
-  "peerDependencies": {"react":">=18","react-dom":">=18"},
-  "devDependencies": {"@types/react":"^19","typescript":"^5"}
+  "dependencies": {
+    "jsxgraph": "^1.12.2"
+  },
+  "peerDependencies": {
+    "react": ">=18",
+    "react-dom": ">=18"
+  },
+  "devDependencies": {
+    "@types/react": "^19",
+    "typescript": "^5"
+  },
+  "type": "module"
 }
